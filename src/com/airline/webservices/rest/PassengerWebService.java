@@ -39,7 +39,7 @@ public class PassengerWebService {
 			List<Passenger> passengersList=passengerService.getPassengerList();
 			
 			
-			return null;
+			return passengersList;
 		}
 	
 }

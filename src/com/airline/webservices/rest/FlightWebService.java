@@ -41,7 +41,7 @@ public class FlightWebService {
 		List<Flight> flightsList=flightService.getFlightList();
 		
 		
-		return null;
+		return flightsList;
 	}
 	
 }
