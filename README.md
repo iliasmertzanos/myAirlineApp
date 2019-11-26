@@ -13,9 +13,9 @@ The main entities that are being managed from this app are
 - `Passenger`
 - `Pilot`
 
-and are in the package `com.airline.models`.
+and are in the package `com.airline.models` to be found.
 
-The service offers a lot of endpoints so that different entities can be manipulated and assigned to each other. (see package `com.airline.controllers` and `com.airline.webservices.rest`)
+The service offers a lot of endpoints so that different entities can be manipulated and assigned to each other. (see packages `com.airline.controllers` and `com.airline.webservices.rest`)
 
 All of them are accessible over the user interfaces in the package `WebContent/WEB-INF/views`.
 
